@@ -1,0 +1,194 @@
+{
+  "current": {
+    "name": "Kanpur",
+    "dt": 1795273200,
+    "timezone": 19800,
+    "sys": {
+      "country": "IN"
+    },
+    "weather": [
+      {
+        "main": "Clouds",
+        "description": "scattered clouds"
+      }
+    ],
+    "main": {
+      "temp": 39.2,
+      "feels_like": 42.0,
+      "humidity": 88
+    },
+    "wind": {
+      "speed": 3.2
+    },
+    "clouds": {
+      "all": 35
+    }
+  },
+  "forecast": {
+    "city": {
+      "name": "Kanpur",
+      "country": "IN",
+      "timezone": 19800
+    },
+    "list": [
+      {
+        "dt": 1795284000,
+        "main": {
+          "temp": 37.0,
+          "feels_like": 40.0,
+          "humidity": 86
+        },
+        "weather": [
+          {
+            "main": "Clouds",
+            "description": "broken clouds"
+          }
+        ],
+        "wind": {
+          "speed": 3.0
+        },
+        "pop": 0.1,
+        "rain": {}
+      },
+      {
+        "dt": 1795294800,
+        "main": {
+          "temp": 38.5,
+          "feels_like": 42.0,
+          "humidity": 89
+        },
+        "weather": [
+          {
+            "main": "Rain",
+            "description": "light rain"
+          }
+        ],
+        "wind": {
+          "speed": 4.0
+        },
+        "pop": 0.75,
+        "rain": {
+          "3h": 1.8
+        }
+      },
+      {
+        "dt": 1795305600,
+        "main": {
+          "temp": 34.0,
+          "feels_like": 37.0,
+          "humidity": 91
+        },
+        "weather": [
+          {
+            "main": "Rain",
+            "description": "moderate rain"
+          }
+        ],
+        "wind": {
+          "speed": 4.5
+        },
+        "pop": 0.9,
+        "rain": {
+          "3h": 4.2
+        }
+      },
+      {
+        "dt": 1795316400,
+        "main": {
+          "temp": 31.0,
+          "feels_like": 33.0,
+          "humidity": 82
+        },
+        "weather": [
+          {
+            "main": "Clouds",
+            "description": "overcast clouds"
+          }
+        ],
+        "wind": {
+          "speed": 2.8
+        },
+        "pop": 0.2,
+        "rain": {}
+      },
+      {
+        "dt": 1795327200,
+        "main": {
+          "temp": 30.5,
+          "feels_like": 32.0,
+          "humidity": 78
+        },
+        "weather": [
+          {
+            "main": "Clear",
+            "description": "clear sky"
+          }
+        ],
+        "wind": {
+          "speed": 2.2
+        },
+        "pop": 0.05,
+        "rain": {}
+      },
+      {
+        "dt": 1795338000,
+        "main": {
+          "temp": 32.0,
+          "feels_like": 34.0,
+          "humidity": 80
+        },
+        "weather": [
+          {
+            "main": "Clouds",
+            "description": "few clouds"
+          }
+        ],
+        "wind": {
+          "speed": 2.5
+        },
+        "pop": 0.15,
+        "rain": {}
+      },
+      {
+        "dt": 1795348800,
+        "main": {
+          "temp": 35.0,
+          "feels_like": 38.0,
+          "humidity": 84
+        },
+        "weather": [
+          {
+            "main": "Clouds",
+            "description": "scattered clouds"
+          }
+        ],
+        "wind": {
+          "speed": 3.1
+        },
+        "pop": 0.25,
+        "rain": {}
+      },
+      {
+        "dt": 1795359600,
+        "main": {
+          "temp": 39.0,
+          "feels_like": 43.0,
+          "humidity": 87
+        },
+        "weather": [
+          {
+            "main": "Thunderstorm",
+            "description": "thunderstorm with light rain"
+          }
+        ],
+        "wind": {
+          "speed": 5.2
+        },
+        "pop": 0.85,
+        "rain": {
+          "3h": 5.0
+        }
+      }
+    ]
+  }
+}
